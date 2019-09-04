@@ -1,0 +1,45 @@
+{
+	"questa":[
+		{"id":1,"answer":"","key":"D","score":2},
+		{"id":2,"answer":"","key":"D","score":2},
+		{"id":3,"answer":"","key":"D","score":2},
+		{"id":4,"answer":"","key":"B","score":2},
+		{"id":5,"answer":"","key":"B","score":2},
+		{"id":6,"answer":"","key":"A","score":2},
+		{"id":7,"answer":"","key":"A","score":2},
+		{"id":8,"answer":"","key":"A","score":2},
+		{"id":9,"answer":"","key":"A","score":2},
+		{"id":10,"answer":"","key":"B","score":2},
+		{"id":11,"answer":"","key":"A","score":2},
+		{"id":12,"answer":"","key":"B","score":2},
+		{"id":13,"answer":"","key":"B","score":2},
+		{"id":14,"answer":"","key":"B","score":2},
+		{"id":15,"answer":"","key":"B","score":2}
+	],
+	"questb":[
+		{"id":1,"answer":"","key":"去了","score":1},
+		{"id":2,"answer":"","key":"没去","score":1},
+		{"id":3,"answer":"","key":"没去","score":1},
+		{"id":4,"answer":"","key":"没下雨","score":2},
+		{"id":5,"answer":"","key":"544","score":5}
+		
+	],
+	"questc":[
+		{"id":1,"answer":"","key":"RuanHuoMianTai","score":8},
+		{"id":2,"answer":"","key":"4","score":8},
+		{"id":3,"answer":"","key":"8","score":8},
+		{"id":4,"answer":"","key":"6","score":8}
+	],
+	"questd":[
+		{"id":1,"answer":"","key":"i*i","score":2},
+		{"id":2,"answer":"","key":"n/i","score":3},
+		{"id":3,"answer":"","key":"returna","score":3},
+		{"id":4,"answer":"","key":"a%b","score":3},
+		{"id":5,"answer":"","key":"ans+gcd(a[i],a[j])","score":3},
+		{"id":6,"answer":"","key":"a[x]=i","score":3},
+		{"id":7,"answer":"","key":"i+1","score":2},
+		{"id":8,"answer":"","key":"R[a[i]]","score":3},
+		{"id":9,"answer":"","key":"a[i]","score":3},
+		{"id":10,"answer":"","key":"R[i]","score":3}
+	]
+}

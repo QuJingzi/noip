@@ -1,0 +1,48 @@
+{
+	"questa":[
+		{"id":1,"answer":"","key":"B","score":1.5},
+		{"id":2,"answer":"","key":"A","score":1.5},
+		{"id":3,"answer":"","key":"D","score":1.5},
+		{"id":4,"answer":"","key":"E","score":1.5},
+		{"id":5,"answer":"","key":"D","score":1.5},
+		{"id":6,"answer":"","key":"D","score":1.5},
+		{"id":7,"answer":"","key":"D","score":1.5},
+		{"id":8,"answer":"","key":"D","score":1.5},
+		{"id":9,"answer":"","key":"E","score":1.5},
+		{"id":10,"answer":"","key":"A","score":1.5},
+		{"id":11,"answer":"","key":"D","score":1.5},
+		{"id":12,"answer":"","key":"C","score":1.5},
+		{"id":13,"answer":"","key":"E","score":1.5},
+		{"id":14,"answer":"","key":"E","score":1.5},
+		{"id":15,"answer":"","key":"A","score":1.5},
+		{"id":16,"answer":"","key":"C","score":1.5},
+		{"id":17,"answer":"","key":"D","score":1.5},
+		{"id":18,"answer":"","key":"B","score":1.5},
+		{"id":19,"answer":"","key":"C","score":1.5},
+		{"id":20,"answer":"","key":"E","score":1.5}
+	],
+	"questb":[
+		{"id":1,"answer":"","key":"5","score":5},
+		{"id":2,"answer":"","key":"11","score":5}
+		
+	],
+	"questc":[
+		{"id":1,"answer":"","key":"499","score":8},
+		{"id":2,"answer":"","key":"Today-ix-terrible!","score":8},
+		{"id":3,"answer":"","key":"-7452","score":8},
+		{"id":4,"answer":"","key":"zzzaaabbbcccy","score":8}
+	
+	],
+	"questd":[
+		{"id":1,"answer":"","key":"n,i;i,n","score":2},
+		{"id":2,"answer":"","key":"yes;YES","score":2},
+		{"id":3,"answer":"","key":"n==1;n-1==0","score":2},
+		{"id":4,"answer":"","key":"n%i==0;!n%i","score":2},
+		{"id":5,"answer":"","key":"num+len[i]/t","score":4},
+		{"id":6,"answer":"","key":"num>=k","score":4},
+		{"id":7,"answer":"","key":"left=0","score":4},
+		{"id":8,"answer":"","key":"left+1","score":4},
+		{"id":9,"answer":"","key":"!isok(mid);isok(mid) == 0","score":4}
+	
+	]
+}

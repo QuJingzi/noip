@@ -1,0 +1,52 @@
+{
+	"questa":[
+		{"id":1,"answer":"","key":"B","score":1.5},
+		{"id":2,"answer":"","key":"B","score":1.5},
+		{"id":3,"answer":"","key":"C","score":1.5},
+		{"id":4,"answer":"","key":"A","score":1.5},
+		{"id":5,"answer":"","key":"A","score":1.5},
+		{"id":6,"answer":"","key":"A","score":1.5},
+		{"id":7,"answer":"","key":"B","score":1.5},
+		{"id":8,"answer":"","key":"C","score":1.5},
+		{"id":9,"answer":"","key":"C","score":1.5},
+		{"id":10,"answer":"","key":"A","score":1.5},
+		
+	],
+	"questb":[
+       	{"id":1,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"CD","score":1.5},
+		{"id":2,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"ABCD","score":1.5},
+		{"id":3,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"AB","score":1.5},
+		{"id":4,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"BC","score":1.5},
+		{"id":5,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"BC","score":1.5},
+		{"id":6,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"ABD","score":1.5},
+		{"id":7,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"CD","score":1.5},
+		{"id":8,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"A","score":1.5},
+		{"id":9,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"BCD","score":1.5},
+		{"id":10,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"ABC","score":1.5},
+	],
+	"questc":[
+		{"id":1,"answer":"","key":"9","score":5},
+		{"id":2,"answer":"","key":"4","score":5},
+	],
+	"questd":[
+		{"id":1,"answer":"","key":"3","score":8},
+		{"id":2,"answer":"","key":"1 2 5 13 34","score":8},
+		{"id":3,"answer":"","key":"150","score":8},
+		{"id":4,"answer":"","key":"57344","score":8},
+	],
+	"queste":[
+		{"id":1,"answer":"","key":"ans.num[i+j-1]","score":2},
+		{"id":2,"answer":"","key":"ans.num[i]=ans.num[i]mod10","score":2},
+		{"id":3,"answer":"","key":"a.num[i]+b.num[i]","score":2},
+		{"id":4,"answer":"","key":"ans.num[i]%2;ans.num[i]&1) ","score":2},
+		{"id":5,"answer":"","key":"ans.len++;ans.len=ans.len+1） ","score":2},
+		{"id":6,"answer":"","key":"a.len<b.len","score":2},
+		{"id":7,"answer":"","key":"'0';48","score":2},
+		{"id":8,"answer":"","key":"times(middle,middle),target","score":2},
+		
+		{"id":9,"answer":"","key":"num++;num=num+1","score":3},
+		{"id":10,"answer":"","key":"j=i","score":3}
+		{"id":11,"answer":"","key":"solve(left,j-1,deep+1)","score":3},
+		{"id":12"answer":"","key":"solve(j+1,right,deep+1)","score":3},
+	]
+}

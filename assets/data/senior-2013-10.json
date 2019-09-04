@@ -1,0 +1,81 @@
+{
+	"questa":[
+		{"id":1,"answer":"","key":"A","score":1.5},
+		{"id":2,"answer":"","key":"A","score":1.5},
+		{"id":3,"answer":"","key":"B","score":1.5},
+		{"id":4,"answer":"","key":"D","score":1.5},
+		{"id":5,"answer":"","key":"A","score":1.5},
+		{"id":6,"answer":"","key":"B","score":1.5},
+		{"id":7,"answer":"","key":"D","score":1.5},
+		{"id":8,"answer":"","key":"B","score":1.5},
+		{"id":9,"answer":"","key":"D","score":1.5},
+		{"id":10,"answer":"","key":"D","score":1.5},
+		{"id":11,"answer":"","key":"C","score":1.5},
+		{"id":12,"answer":"","key":"B","score":1.5},
+		{"id":13,"answer":"","key":"D","score":1.5},
+		{"id":14,"answer":"","key":"B","score":1.5},
+		{"id":15,"answer":"","key":"B","score":1.5}
+	],
+	
+	"questb":[
+		{"id":1,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"AC","score":1.5},
+		{"id":2,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"AD","score":1.5},
+		{"id":3,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"CD","score":1.5},
+		{"id":4,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"AB","score":1.5},
+		{"id":5,"ansA":"","ansB":"","ansC":"","ansD":"","answer":"","key":"ABCD","score":1.5}
+
+	],
+	
+	"questc":[
+		{"id":1,"answer":"","key":"0","score":5},
+		{"id":2,"answer":"","key":"1","score":5},
+		{"id":3,"answer":"","key":"1","score":5},
+		{"id":4,"answer":"","key":"1","score":5},
+		{"id":5,"answer":"","key":"37/12","score":5}
+
+
+	],
+	
+	"questd":[
+		{"id":1,"answer":"","key":"Yes","score":2},
+		{"id":2,"answer":"","key":"133","score":2},
+		{"id":3,"answer":"","key":"4","score":2},
+		{"id":4,"answer":"","key":"7","score":2}
+	],
+	
+	"queste":[
+		{"id":1,"answer":"","key":"n-p+i","score":2},
+		{"id":2,"answer":"","key":"i-p+1","score":2},
+		{"id":3,"answer":"","key":"a[i-p]","score":2},
+		{"id":4,"answer":"","key":"j<=end2","score":3},
+		{"id":5,"answer":"","key":"i;tart2;end1+1","score":3},
+		{"id":6,"answer":"","key":"j-1","score":3},
+			
+		{"id":7,"answer":"","key":"j-1","score":3},
+		{"id":8,"answer":"","key":"cur1","score":3},
+		{"id":9,"answer":"","key":"dec(count1);count1:=count1–1;count1--;count1=count1–1;--count1","score":2},
+		{"id":10,"answer":"","key":"dec(count2);count2:=count2–1;count2--;count2=count2–1;--count2","score":2},
+		{"id":11,"answer":"","key":"cur1:=a[j];cur1=a[j]","score":3}
+
+
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
